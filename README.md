@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-matin-de-printemps/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Un Matin De Printemps](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-matin-de-printemps/) |
+| **Get License** | [Commercial Licensing for Un Matin De Printemps](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-matin-de-printemps/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sens ton parfum de luxe dans l'air de la nuit,
+> Bébé, tu brilles plus fort que tout ce qui me séduit.
+> Dans le club ou la Lambo, t'es ma seule obsession,
+> On va fuir la ville et céder à la tentation.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
