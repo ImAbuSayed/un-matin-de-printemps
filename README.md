@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-matin-de-printemps/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un Matin De Printemps](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-matin-de-printemps/) |
+| **Get License** | [Obtain a Music License for Un Matin De Printemps](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-matin-de-printemps/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d4f697f68fb1d8188821f7a5067b96347276a92386a94aa811c60de1733de6f2` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
